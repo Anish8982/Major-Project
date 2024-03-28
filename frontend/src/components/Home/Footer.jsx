@@ -42,7 +42,7 @@ function Footer() {
             <li><a href="#">Corporate package</a></li>
             <li><a href="#">Covid-19 care</a></li>
             <li><a href="#">Symptoms</a></li>
-            <li><a href="#">Cities</a></li>
+            <li><a href="#">Cities </a></li>
 
           </ul>
         </nav></div>
